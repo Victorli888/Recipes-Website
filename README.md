@@ -1,3 +1,3 @@
 # Recipes-Website
 
-A website that showcases the recipes 
+Simple website that showcases my favorite food recipes 
